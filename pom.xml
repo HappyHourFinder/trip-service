@@ -10,7 +10,7 @@
     <relativePath/>
   </parent>
   <groupId>com.mathieuaime.hhf</groupId>
-  <artifactId>trip</artifactId>
+  <artifactId>trip-service</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>trip-service</name>
   <description>Happy Hour Finder :: Trip Service</description>
